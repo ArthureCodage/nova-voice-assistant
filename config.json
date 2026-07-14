@@ -1,0 +1,10 @@
+{
+  "assistant_name": "Nova",
+  "speak_responses": true,
+  "history_turns": 8,
+  "speech_timeout_seconds": 20,
+  "whisper_model": "base",
+  "microphone_threshold": 0.015,
+  "piper_voice": "fr_FR-siwis-medium",
+  "piper_speed": 1.08
+}

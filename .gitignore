@@ -1,0 +1,30 @@
+# Environnement et caches Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Données locales et privées
+data/
+workspace/
+*.db
+*.db-shm
+*.db-wal
+latest-screen.png
+
+# Modèles téléchargés
+models/
+*.onnx
+
+# Journaux et fichiers temporaires
+*.log
+*.tmp
+codex-response-*.txt
+
+# Éditeurs et système
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
